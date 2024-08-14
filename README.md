@@ -9,23 +9,23 @@ This project provides a simple ID card generator using Python. The generated ID 
 - **Excel Storage**: Save the entered details in an Excel file for future reference.
 
 ## Usage
-Clone or Download the Repository:
-Clone the repository using Git or download the ZIP file from GitHub.
+- Clone or Download the Repository:
+      Clone the repository using Git or download the ZIP file from GitHub.
 
-Open Jupyter Notebook:
-Launch Jupyter Notebook and open a new or existing notebook.
+- Open Jupyter Notebook:
+      Launch Jupyter Notebook and open a new or existing notebook.
 
-Copy and Paste the Code:
-Copy the provided Python code into a new cell in Jupyter Notebook.
+- Copy and Paste the Code:
+      Copy the provided Python code into a new cell in Jupyter Notebook.
 
-Run the Code:
-Execute the cell. The code will prompt you to enter details such as Name, Student ID, Department, Phone Number, College, Blood Group, and Website URL.
+- Run the Code:
+      Execute the cell. The code will prompt you to enter details such as Name, Student ID, Department, Phone Number, College, Blood Group, and Website URL.
 
-View the ID Card:
-The generated ID card will be displayed. It includes the entered details and a QR code.
+- View the ID Card:
+      The generated ID card will be displayed. It includes the entered details and a QR code.
 
-Check the Excel File:
-The details will be stored in an Excel file named id_card_details.xlsx. You can open this file with Excel or any spreadsheet software to view or manage the data.
+- Check the Excel File:
+      The details will be stored in an Excel file named id_card_details.xlsx. You can open this file with Excel or any spreadsheet software to view or manage the data.
 
 ## Requirements
 
