@@ -1,4 +1,5 @@
-# Note
+### Note
+
 This simple ID card generator project can be further developed to enhance data handling and reusability. Consider adding features like:
 
 - Advanced data management and storage.
@@ -6,5 +7,6 @@ This simple ID card generator project can be further developed to enhance data h
 - Enhanced user interface for easier data input and card customization.
 - Multiple direct connections to other systems or services.
 
-## Feel free to build upon this project to suit your needs!
+Feel free to build upon this project to suit your needs!
+
 
