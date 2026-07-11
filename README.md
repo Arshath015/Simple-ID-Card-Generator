@@ -1,5 +1,7 @@
 # ID Card Generator with QR Code
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 This project provides a simple ID card generator using Python. The generated ID card includes details entered by the user and a QR code that redirects to a specified website. Additionally, the user details are stored in an Excel file for easy management.
 
 ## Features
