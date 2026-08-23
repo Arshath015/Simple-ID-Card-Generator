@@ -16,3 +16,6 @@ All notable changes to this project are documented here.
 
 ### 2026-08-11
 - Reviewed open items and updated project notes.
+
+### 2026-08-23
+- Documentation pass for clarity and consistency.
